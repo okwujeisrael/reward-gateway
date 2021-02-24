@@ -1,4 +1,8 @@
 ## Applicant Note
+Following the brief, I've created a modal that the avatar expands into. 
+I have included a dropdown for card colours and a text file to set a label.
+I wasn't able to perform a POST request on any of the items because in 
+the API documentation, only a GET request was specified
 
 
 ## Getting Started with Create React App
